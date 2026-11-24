@@ -1,0 +1,11 @@
+tekst= str("Welkom bij Python!")
+getal= int(260)
+getal2= int(-56)
+getal3= float(2001.99)
+tekst2= str("k1ngd0m")
+
+print(tekst)
+print(getal)
+print(getal2)
+print(getal3)
+print(tekst2)

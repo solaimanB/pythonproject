@@ -7,3 +7,4 @@ class solaiman:
 
 Solaiman = solaiman("solaiman", 16)
 Solaiman.toon_info()
+#foutje in de commits gemaakt mijn excuus
